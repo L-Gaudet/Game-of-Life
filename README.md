@@ -1,6 +1,6 @@
 ### Game of Life
 
-An implementation of Jon Conway's "Game of Life" in C++. I completed this project at the start of 2022. 
+An implementation of John Conway's "Game of Life" in C++. I completed this project at the start of 2022. 
 
 Code files: 
    
